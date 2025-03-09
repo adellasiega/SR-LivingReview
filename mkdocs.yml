@@ -1,7 +1,7 @@
 site_name: SR-LivingReview
-site_url: https://github.com/nmakke/SR-LivingReview/
+#site_url: https://github.com/nmakke/SR-LivingReview/
 
-repo_url: https://github.com/nmakke/SR-LivingReview/
+#repo_url: https://github.com/nmakke/SR-LivingReview/
 
 theme:
   name: material
