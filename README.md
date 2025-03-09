@@ -95,7 +95,8 @@ Data sets can be categorized into two main groups:
 Example: $f(x) = 2x^2 + \cos(x)$, $x \in [0,1] \rightarrow \mathcal{D}=(x_i,f(x_i))_{i=1}^{n}$
 
 **Real-world data** for which underlying model is unknown.<br>
-$\mathcal{D}=(x_i,y_i)_{i=1}^{n}$ 
+$\mathcal{D}=(x_i,y_i)_{i=1}^{n}$
+$miao=0$ 
 
 | Category | reference | # equations | year |
 | -------- | ------- | ------- | ----- 
